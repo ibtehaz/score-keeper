@@ -1,0 +1,7 @@
+.winner {
+    color: rgb(16, 255, 51);
+}
+
+.loser {
+    color: rgb(255, 0, 0);
+}
